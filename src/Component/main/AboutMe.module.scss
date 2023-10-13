@@ -1,0 +1,60 @@
+@import "../../styles/core/variables";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.photo {
+  width: 200px;
+  border: none;
+
+  @media all and (min-width: 1220px) {
+    width: 300px;
+  }
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 10rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+  padding: 0 1rem;
+  font-family: $font-family-M;
+
+  @media all and (min-width: 768px) {
+    font-size: 1.2rem;
+
+    max-width: 50rem;
+  }
+
+  @media all and (min-width: 1220px) {
+    display: flex;
+    flex-direction: row;
+    max-width: 60rem;
+    font-size: 1rem;
+  }
+}
+
+.BoxDescription {
+  font-size: 1rem;
+  margin-left: 10px;
+  @media all and (min-width: 1220px) {
+    margin-left: 20px;
+  }
+}
+
+.nav {
+  color: $colorBl;
+  font-size: 1rem;
+  margin: 0 auto;
+  padding-left: 2rem;
+
+  @media all and (min-width: 768px) {
+    font-size: 1.5rem;
+  }
+}

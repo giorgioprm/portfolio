@@ -1,0 +1,22 @@
+@import "../../../styles/core/variables";
+
+.boxContact {
+  line-height: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 15rem;
+  margin-top: 2rem;
+
+  & i {
+    font-size: 2rem;
+    color: #000000;
+    font-size: 2rem;
+  }
+
+  & :hover {
+    //color: $colorBl;
+    color: #FFFFFF;
+  }
+}

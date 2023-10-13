@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a4958563.css",
+    "main.js": "/portfolio/static/js/main.dbb24071.js",
+    "static/media/asesoria_tesis_web.png": "/portfolio/static/media/asesoria_tesis_web.45571148b3a91e99101d.png",
+    "static/media/agency_cheaptrip_web.png": "/portfolio/static/media/agency_cheaptrip_web.06bea1032eff14c95267.png",
+    "static/media/america_solidaria_web.png": "/portfolio/static/media/america_solidaria_web.f35c2fcaad626665b909.png",
+    "static/media/concausa_web.png": "/portfolio/static/media/concausa_web.49eabde06c4e29a71127.png",
+    "static/media/giorgio_photo.png": "/portfolio/static/media/giorgio_photo.f4b128eaa3a9c1569cfa.png",
+    "static/media/aspefobst_web.png": "/portfolio/static/media/aspefobst_web.cee0a1746bd75a8f2cc4.png",
+    "static/media/hero_bg.jpg": "/portfolio/static/media/hero_bg.c6fefdd5f3f8f1b4da5d.jpg",
+    "static/media/rick&morty_web.png": "/portfolio/static/media/rick&morty_web.26b19381a5392b1e3f2b.png",
+    "static/media/foto1.jpg": "/portfolio/static/media/foto1.65568d0b1fdc63285136.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.a4958563.css.map": "/portfolio/static/css/main.a4958563.css.map",
+    "main.dbb24071.js.map": "/portfolio/static/js/main.dbb24071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4958563.css",
+    "static/js/main.dbb24071.js"
+  ]
+}
